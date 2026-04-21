@@ -6,12 +6,11 @@
   <img src="https://img.shields.io/badge/Versão-1.0.0-blue?style=for-the-badge"/>
 </p>
 
-
+<!-- GIF do sistema -->
 <p align="center">
   <img src="https://github.com/user-attachments/assets/00fb99b9-378f-4819-817a-2fee3fb134ae" 
        alt="Demo do Sistema" 
        width="600"/>
-</p>
 </p>
 
 <p align="center">
