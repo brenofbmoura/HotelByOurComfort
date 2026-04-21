@@ -14,10 +14,7 @@
 </p>
 
 <p align="center">
-  Sistema de gestão hoteleira desenvolvido em Kotlin...
-</p>
-  com múltiplos módulos integrados para gerenciamento
-  completo de um hotel.
+  Sistema desenvolvido em Kotlin com múltiplos módulos integrados para gerenciamento completo de um hotel.
 </p>
 
 ---
