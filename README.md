@@ -8,7 +8,7 @@
 
 <!-- GIF do sistema -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/00fb99b9-378f-4819-817a-2fee3fb134ae" 
+  <img src="https://github.com/user-attachments/assets/4e1a72ba-7abb-4ddb-a520-eed809ab2b8a" 
        alt="Demo do Sistema" 
        width="600"/>
 </p>
